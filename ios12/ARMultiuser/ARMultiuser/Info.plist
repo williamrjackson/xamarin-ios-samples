@@ -49,5 +49,11 @@
 	<true/>
 	<key>UIRequiresFullScreen</key>
 	<true/>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>AR Multipeer Session Sharing</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_ar-multi-sample._tcp</string>
+	</array>
 </dict>
 </plist>

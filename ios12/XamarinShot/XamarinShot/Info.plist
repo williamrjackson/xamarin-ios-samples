@@ -92,5 +92,12 @@
 			</dict>
 		</dict>
 	</array>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_xamarinshot-p._tcp</string>
+		<string>_xamarinshot-s._tcp</string>
+	</array>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Used to connect to other players.</string>
 </dict>
 </plist>
